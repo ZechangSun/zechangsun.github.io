@@ -41,10 +41,10 @@ education:
       year: Present
     - course: BSc in Mathematics and Physics
       institution: Department of Physics, Tsinghua University
-      year: 2022
+      year: 2018-2022
     - course: Minor in Data Science
       institution: Tsinghua University
-      year: 2022
+      year: 2019-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
