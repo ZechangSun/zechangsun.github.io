@@ -30,8 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Enjoy Everday Life
-  - Cosmology & Galaxy Physics
-  - Machine Learning & Advanced Statistical Methods
+  - Reveal the Nature of the Universe
+  - Do Something Unique
 
 # Education to show in About widget
 education:
@@ -41,6 +41,9 @@ education:
       year: Present
     - course: BSc in Mathematics and Physics
       institution: Department of Physics, Tsinghua University
+      year: 2022
+    - course: Minor in Data Science
+      institution: Tsinghua University
       year: 2022
 
 # Skills
@@ -105,7 +108,7 @@ social:
     link: https://github.com/ZechangSun
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/泽昌-孙-418b80284/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
