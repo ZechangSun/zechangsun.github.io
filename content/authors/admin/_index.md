@@ -30,7 +30,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Enjoy Everday Life
-  - Reveal the Nature of the Universe
+  - Explore the World
   - Do Something Unique
 
 # Education to show in About widget
