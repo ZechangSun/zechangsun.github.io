@@ -21,11 +21,16 @@ Work experience
   * Microsoft Research Asia
   * Duties includes: Design AI astronomer by combining expertise in both artificial intelligence and astronomy
   * Mentor: Dr. Nan Duan, Mr. Yaobo Liang
+  * Publications:
+    * [**Interpreting Multi-band Galaxy Observations with Large Language Model-Based Agents**](https://ui.adsabs.harvard.edu/abs/2024arXiv240914807S/abstract)
+    * [**Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery**](https://ui.adsabs.harvard.edu/abs/2024arXiv240601391S/abstract)
 
 * Summar 2023: Visiting Scholar
   * University of California Santa Cruz
   * Duties includes: photometric redshift calibration algorithm, two point correlation function measurements in Dark Energy Spectroscopic Instrument survey
   * Mentor: Prof. Alexie Leauthaud
+  * Publications:
+    * [**Zephyr : Stitching Heterogeneous Training Data with Normalizing Flows for Photometric Redshift Inference**](https://ui.adsabs.harvard.edu/abs/2023arXiv231020125S/abstract)
 
 
 Publications
