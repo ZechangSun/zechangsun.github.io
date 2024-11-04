@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Spring 2024: Intern
+  * Microsoft Research Asia
+  * Duties includes: Design AI astronomer by combining expertise in both artificial intelligence and astronomy
+  * Mentor: Dr. Nan Duan, Mr. Yaobo Liang
+
 * Summar 2023: Visiting Scholar
   * University of California Santa Cruz
   * Duties includes: photometric redshift calibration algorithm, two point correlation function measurements in Dark Energy Spectroscopic Instrument survey
