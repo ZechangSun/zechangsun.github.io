@@ -56,9 +56,6 @@ Selected Works
     - TL;DR: We present zephyr, a novel method that integrates cutting-edge normalizing flow techniques into a mixture density estimation framework, enabling the effective use of heterogeneous training data for photometric redshift inference.
 
 
-
-- **2024**
-
 Beyond My Research
 ======
 
