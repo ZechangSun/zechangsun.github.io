@@ -48,7 +48,7 @@ Advised Students
   
 Service and leadership
 ======
-* Co-PI of [UniverseTBD](https://universetbd.org) (An international collaboration aimed for open-source large languge model for astronomical purposes)
+* Co-PI of [UniverseTBD](https://universetbd.org) [2023-2024] (An international collaboration aimed for open-source large languge model for astronomical purposes)
 * Machine Learning Seminar in Department of Astronomy, Tsinghua University, 2022 - Now
 
 
