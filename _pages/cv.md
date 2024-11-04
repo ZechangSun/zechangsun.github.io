@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Department of Astronomy, Tsinghua University, 2022 - Now
+* Minor in Data Science, Tsinghua University, 2019 - 2022
+* B.S. in Department of Physics, Tsinghua University, 2018 - 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summar 2023: Visiting Scholar
+  * University of California Santa Cruz
+  * Duties includes: photometric redshift calibration algorithm, two point correlation function measurements in Dark Energy Spectroscopic Instrument survey
+  * Mentor: Prof. Alexie Leauthaud
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Total Citations: 445
+* First-author Citations: 21
+* h-index: 7
+* Refereed first-author publications: 4
+* Check my full publications in NASA/ADS: [Link](https://ui.adsabs.harvard.edu/user/libraries/NxC-QlMeTHWt_48OUxsBUQ)
+* Check my first-author publications in NASA/ADS: [Link](https://ui.adsabs.harvard.edu/user/libraries/578YvbjUTB2gvZlCol8QSQ)
+
   
-Talks
+Advised Students
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Anning Gao, Undergraduate Student, Tsinghua University
+* Chenrui Ma, Graduate Student, Tsinghua University
+
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-PI of [UniverseTBD](https://universetbd.org) (An international collaboration aimed for open-source large languge model for astronomical purposes)
+* Machine Learning Seminar in Department of Astronomy, Tsinghua University, 2022 - Now
+
+
+Reference
+------
+- [Song Huang](https://dr-guangtou.github.io)
+- [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/)
+- [Zheng Cai](http://i.astro.tsinghua.edu.cn/~zcai/)

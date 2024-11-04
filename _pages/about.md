@@ -24,6 +24,41 @@ I am a third-year PhD student in the Department of Astronomy at Tsinghua Univers
   - Unsupervised Learning/Reinforcement Learning
     - Currently, all artificial intelligence systems are, without exception, stuck at the lowest rung of Judea Pearl’s Ladder of Causation, which is the ability to capture only associations between data. However, when applying AI in scientific research, there is often a problem of sparse and unrepresentative data. Unsupervised learning and reinforcement learning may be more meaningful in the context of AI for Science.
 
+Selected Works
+======
+- **2024**
+  - [**Interpreting Multi-band Galaxy Observations with Large Language Model-Based Agents**](https://ui.adsabs.harvard.edu/abs/2024arXiv240914807S/abstract)
+  - Subject: Large language model based agents, AI scientist
+  - Citation Count: 1
+  - Publication: arXiv, Submitted to journal
+  - TL;DR: We build the first AI astronomer in the world to mimic the scientific reasoning process of human researcher using large language models. The AI astronomer can interact with real-world research data and analysis tools, and can automatically learn necessary skills for scientific analysis through self-play reinforcement learning (Work done during internship in Microsoft Research Asia).
+
+  - [**Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery**](https://ui.adsabs.harvard.edu/abs/2024arXiv240601391S/abstract)
+    - Subject: Science of Science, Large language model, Knowledge graph
+    - Citation Count: 6
+    - Publication: IJCAI 2024 AI for Research Workshop
+    - Interactive Knowledge Graph for Astronomy: [Link](https://astrokg.github.io)
+    - TL;DR: We build the first knowledge graph in astronomy using large language models. We extract all scientific concepts from the academia journals of astronomy and then linking them through their citation-reference relation. We then study how various concepts are linked with each other in scientific community. Our research demonstrate that technology advancements typically require 5-10 years progress to be integrated into scientific discovery workflow.
+
+- **2023**
+  - [**Quasar Factor Analysis-An Unsupervised and Probabilistic Quasar Continuum Prediction Algorithm with Latent Factor Analysis**](https://ui.adsabs.harvard.edu/abs/2023ApJS..269....4S/abstract)
+    - Subject: Lya forest cosmology, Factor analysis
+    - Citation Count: 10
+    - Publication: The Astrophysical Journal Supplement Series, Volume 269, Issue 1, id.4, 30 pp.
+    - Code Link: [https://github.com/ZechangSun/QFA](https://github.com/ZechangSun/QFA)
+    - Data Link: [https://zenodo.org/records/8050660](https://zenodo.org/records/8050660)
+    - TL;DR: We build an statistical model to generatively model quasar spectra in this work. Compared to previous work, all collected quasar spectra can be used to train the machine learning algorithm. It can be used for quasar continuum prediction, anomaly detection, and study of evolution of quasar across cosmic time.
+  
+  - [**Zephyr : Stitching Heterogeneous Training Data with Normalizing Flows for Photometric Redshift Inference**](https://ui.adsabs.harvard.edu/abs/2023arXiv231020125S/abstract)
+    - Subject: Photometric redshift calibration, Normalizing flow, Heterogeneous training data distribution
+    - Citation Count: 3
+    - Publication: NeurlPS 2023 workshop on Machine Learning and the Physical Sciences (Journal Submission on the way)
+    - TL;DR: We present zephyr, a novel method that integrates cutting-edge normalizing flow techniques into a mixture density estimation framework, enabling the effective use of heterogeneous training data for photometric redshift inference.
+
+
+
+- **2024**
+
 Beyond My Research
 ======
 
