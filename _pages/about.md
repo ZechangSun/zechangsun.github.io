@@ -7,22 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the Department of Astronomy at Tsinghua University. My research interest is to understand our **Universe** and **Society** through **Data Science**. As a scientist with an engineering mindset, my research interest lies in utilizing advanced data analysis techniques to provide unique perspectives on understanding the world. Below are the typical questions I care about:
+I am a third-year PhD student in the Department of Astronomy at Tsinghua University. As a scientist with an engineering mindset, my research interest lies in utilizing/developing advanced data analysis techniques to provide unique perspectives on understanding the world. And more importantly, I do what I think will create the future. Below are the typical questions I care about:
 
-- **Cosmology/Galaxy Formation**:
+- **Astrophysics**:
   - What is the nature of dark matter and dark energy? 
     - This is the Holy Grail of astronomy, I am here to offer my personal expertise to this grand object in DESI collaboration.
-  - How galaxies form and evolve?
-    - This is a big question in the domain of galaxy physics, I am here to dig out latent information which has not been widely awared by the research community.
+  - Unique observation mining.
+    - Astronomers are treasure hunter in the Universe wonderland to discover those most unique phenomena. I am here to build artificial intelligence system to automatically dig out and interpret those observations, no matter they are galaxies, stars, supernove, supermassive blackhole, and etc.
+
+- **Machine Learning/Statistics**
+  - Unsupervised Learning/Reinforcement Learning
+    - Currently, all artificial intelligence systems are, without exception, stuck at the lowest rung of Judea Pearl’s Ladder of Causation, which is the ability to capture only associations between data. However, when applying AI in scientific research, there is often a problem of sparse and unrepresentative data. Unsupervised learning and reinforcement learning may be more meaningful in the context of AI for Science.
+  
+  - Causal Inference
+    - Most scientific discovery process can be formalized into the framework of causal analysis. How to use AI to augument the ability for human to discover causal models, design experiments to verify those causal relations, and finally a AI scientist which can understand the world is something I think can both facilitate the progress of natural science and also our understanding of the intelligence. I am working towards this direction.
+  
 
 - **Science of Science**:
   - How does knowledge spread and evolve within the scientific community?
     - You might be curious why I am interested in sociology. In fact, I am a fan of Isaac Asimov’s Foundation series and Liu Cixin’s The Three-Body Problem series. I think it’s very cool to be able to describe and predict the evolution of a social system using mathematics.
     - As a researcher, my life inevitably involves figuring out how to gain broad recognition for my research in the field. Therefore, I hope to use the research methods of sociology and data science to quantify whether the current academic evaluation system fosters innovation and how to uncover promising research directions.
-
-- **Machine Learning/Statistics**
-  - Unsupervised Learning/Reinforcement Learning
-    - Currently, all artificial intelligence systems are, without exception, stuck at the lowest rung of Judea Pearl’s Ladder of Causation, which is the ability to capture only associations between data. However, when applying AI in scientific research, there is often a problem of sparse and unrepresentative data. Unsupervised learning and reinforcement learning may be more meaningful in the context of AI for Science.
 
 Selected Works
 ======
