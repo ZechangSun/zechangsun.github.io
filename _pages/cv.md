@@ -35,9 +35,10 @@ Work experience
 
 Publications
 ======
-* Total Citations: 445
-* First-author Citations: 21
+* Total Citations: 474
+* First-author Citations: 25
 * h-index: 7
+* Total publications: 19
 * Refereed first-author publications: 4
 * Check my full publications in NASA/ADS: [Link](https://ui.adsabs.harvard.edu/user/libraries/NxC-QlMeTHWt_48OUxsBUQ)
 * Check my first-author publications in NASA/ADS: [Link](https://ui.adsabs.harvard.edu/user/libraries/578YvbjUTB2gvZlCol8QSQ)
